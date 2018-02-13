@@ -9,8 +9,28 @@ body {
     background-color: antiquewhite;
 }
 
-#firstDiv {
-    font-family: 'arial'
+#header {
+    width: 800px;
+    height: 100px;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: red;
+    border-radius: 25px;
+}
+
+/* border radius gives rounded cornert */
+
+#article {
+    width: 800px;
+    height: 2000px;
+    border: dotted 10px blue;
+    background-color: aquamarine
+}
+
+#footer {
+    width: 800px;
+    height: 200px;
+    border: double 10px green;
 }
 
 p {
