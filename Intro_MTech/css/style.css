@@ -9,8 +9,19 @@ body {
     background-color: antiquewhite;
 }
 
-#firstDiv {
-    font-family: 'arial'
+#sidebar {
+    width: 800px;
+    height: 450px;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: red;
+    border-radius: 25px;
+    font-family: 'arial';
+    background-color: white;
+}
+
+span {
+    font-family: 'courier';
 }
 
 p {
